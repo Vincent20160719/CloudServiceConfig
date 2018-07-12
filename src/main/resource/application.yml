@@ -1,0 +1,11 @@
+---
+server:
+  port: 8888
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          searchPaths: cloud-config-repo
+          uri: https://github.com/Vincent20160719/SpringCloud.git
