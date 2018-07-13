@@ -7,5 +7,5 @@ spring:
     config:
       server:
         git:
-          searchPaths: cloud-config-repo
+          searchPaths: cloudConfig-repo
           uri: https://github.com/Vincent20160719/SpringCloud.git
