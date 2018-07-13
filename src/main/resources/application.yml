@@ -8,4 +8,4 @@ spring:
       server:
         git:
           searchPaths: cloudConfig-repo
-          uri: https://github.com/Vincent20160719/SpringCloud.git
+          uri: https://github.com/Vincent20160719/CloudServiceConfig.git
