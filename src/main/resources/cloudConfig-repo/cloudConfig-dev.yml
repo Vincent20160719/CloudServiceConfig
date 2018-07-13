@@ -4,7 +4,7 @@ logging:
     org:
       springframework:
         web: DEBUG
-mysqldb:
+spring:
   datasource:
     url               : jdbc:mysql://rm-bp1v548c6d7rt32o1o.mysql.rds.aliyuncs.com:3306/class_qe?characterEncoding=utf-8
     username          : root
